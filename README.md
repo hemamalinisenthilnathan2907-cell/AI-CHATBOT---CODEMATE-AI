@@ -38,12 +38,9 @@ CodeMate AI is an AI-powered chatbot designed to help users with programming and
 4. The AI generates a relevant response.
 5. The response is displayed to the user through the chatbot interface.
 
-## Project Structure
-
-```text
-AI-CHATBOT---CODEMATE-AI/
+## AI-CHATBOT--CODEMATE-AI
 │
 ├── app.py
 ├── README.md
 ├── requirements.txt
-└── .env
+└── .gitignore
