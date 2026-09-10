@@ -4,6 +4,10 @@
 
 CodeMate AI is an AI-powered chatbot designed to help users with programming and coding-related queries. It provides simple and interactive responses to coding questions, making it useful for students, beginners, and developers.
 
+## Live Demo
+
+https://ai-chatbot---codemate-ai-3bgwh8v7agyx7nyikf8s55.streamlit.app/
+
 ## Objectives
 
 - To provide an interactive AI chatbot for coding-related questions.
